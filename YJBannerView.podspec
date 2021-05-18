@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/3546397306@qq.com/YJBannerView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '3546397306@qq.com' => 'zhangshaoqing@idcm.io' }
+  s.author           = { '3546397306@qq.com' => 'sundaysflutter' }
   s.source           = { :git => 'https://github.com/3546397306@qq.com/YJBannerView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'YJBannerView' => ['YJBannerView/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'YJBannerView/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

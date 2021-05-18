@@ -1,0 +1,6 @@
+framework module Pods_YJBannerView_Tests {
+  umbrella header "Pods-YJBannerView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

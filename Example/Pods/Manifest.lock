@@ -1,0 +1,16 @@
+PODS:
+  - YJBannerView (0.1.0)
+
+DEPENDENCIES:
+  - YJBannerView (from `../`)
+
+EXTERNAL SOURCES:
+  YJBannerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJBannerView: d0d24e0d66cf517230c74f8a7bdf26a568ebe217
+
+PODFILE CHECKSUM: 7cebc4793500ee0e9ce68b48db667377ecbfbe4b
+
+COCOAPODS: 1.10.1
