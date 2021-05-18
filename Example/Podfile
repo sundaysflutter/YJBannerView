@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YJBannerView_Example' do
+  pod 'YJBannerView', :path => '../'
+
+  target 'YJBannerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
